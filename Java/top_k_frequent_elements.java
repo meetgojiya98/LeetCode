@@ -1,4 +1,4 @@
-class Solution1 {
+class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         int[] arr = new int[k];
         HashMap<Integer, Integer> map = new HashMap<>();
